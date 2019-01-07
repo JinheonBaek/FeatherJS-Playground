@@ -1,0 +1,23 @@
+{
+  "name": "FeatherJS",
+  "version": "1.0.0",
+  "description": "\"# FeatherJS-Playgroud\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinheonBaek/FeatherJS-Playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinheonBaek/FeatherJS-Playground/issues"
+  },
+  "homepage": "https://github.com/JinheonBaek/FeatherJS-Playground#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^3.3.1"
+  }
+}
